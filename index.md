@@ -13,9 +13,7 @@ My complete implementation of LipNet:-
 **Lip Reading App with Python Tensorflow and Streamlit:** This a step further and build it out into a full stack application using
 streamlit python tensorflow  ([GitHub](https://github.com/pininduwk/LipNet/tree/main/app)).
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/lip.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
