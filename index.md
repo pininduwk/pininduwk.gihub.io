@@ -16,6 +16,13 @@ streamlit python tensorflow  ([GitHub](https://github.com/pininduwk/LipNet/tree/
 <center><img src="images/lip.png"/></center>
 
 ---
+### Training BERT Text Classifier on Tensor Processing Unit (TPU)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pininduwk/BERT-Text-Classifier-on-TPU)
+
+In this project, I fine-tuned the BERT language model using TensorFlow on Arabizi language text data. I modified the model architecture to improve its performance and trained it using Google's TPUs, which reduced the training time significantly. By completing this project, I gained experience in processing text data, using TensorFlow, and working with TPUs.
+
+
+---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
