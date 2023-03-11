@@ -21,6 +21,7 @@ streamlit python tensorflow  ([GitHub](https://github.com/pininduwk/LipNet/tree/
 
 In this project, I fine-tuned the BERT language model using TensorFlow on Arabizi language text data. I modified the model architecture to improve its performance and trained it using Google's TPUs, which reduced the training time significantly. By completing this project, I gained experience in processing text data, using TensorFlow, and working with TPUs.
 
+<center><img src="image/BERT_Text_Classifier_20_7642b68f69.jpg"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
