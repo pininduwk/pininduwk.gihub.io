@@ -16,6 +16,18 @@ streamlit python tensorflow  ([GitHub](https://github.com/pininduwk/LipNet/tree/
 <center><img src="images/lip.png"/></center>
 
 ---
+### PointNet for 3D Object Classification in PyTorch
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pininduwk/PointNet-for-3D-Object-Classification-PyTorch-)
+
+In this project, I implemented a deep learning model called PointNet for 3D object classification using PyTorch. The PointNet model takes a set of 3D points that represent an object as input and outputs a label indicating the object's class. To train and test the model, I used a dataset of 3D shapes.
+
+I loaded the dataset, preprocessed the data, defined and trained the PointNet model, and evaluated its performance on the test set. Additionally, I included visualization code to help understand the model's output.
+
+By working on this project, I gained experience with implementing a deep learning model for 3D object classification using PyTorch and learned how to preprocess and visualize 3D data.
+
+<center><img src="images/teaser.jpg"/></center>
+
+---
 
 ## Natural language processing 
 
