@@ -67,6 +67,6 @@ In this project, I fine-tuned the BERT language model using TensorFlow on Arabiz
 2. Roberta Pretrained Model from 🤗
 3. Huggingface Pipeline</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/sentiment_analysis.jpg"/></center>
 
 ---
