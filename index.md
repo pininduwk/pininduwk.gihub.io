@@ -17,6 +17,19 @@ streamlit python tensorflow  ([GitHub](https://github.com/pininduwk/LipNet/tree/
 <center><img src="images/lip.png"/></center>
 
 ---
+
+### 3D-Football-Player-Pose-Estimation-with-YOLOv7
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pininduwk/3D-Football-Player-Pose-Estimation-with-YOLOv7)
+
+
+This project is a computer vision-based football post detection algorithm. It uses two computer vision models, YOLO V7 for post detection and regular object detection for tracking the ball. The goal of this project is to demonstrate how computer vision can be used in sports.
+
+<center><img src="images/Screenshot (98).png"/></center>
+
+---
+
+
 ### PointNet for 3D Object Classification in PyTorch
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pininduwk/PointNet-for-3D-Object-Classification-PyTorch-)
 
